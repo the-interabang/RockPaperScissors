@@ -1,0 +1,17 @@
+Input logic:
+0 = Rock
+1 = Paper
+2 = Scissors
+
+Results grid logic:
+0 = draw (happens when both characters pick the same number)
+1 = player 1 wins (happens when player
+2 = player 2 wins
+
+
+ex.
+  _ 0 _ 1 _ 2_
+0 | 0   1   2 |
+1 | 2   0   1 |
+2 | 1   2   0 |
+   -----------
